@@ -1,4 +1,4 @@
-# Vershio
+# Music Controller
 
 ## 💡 Inspiration
 
